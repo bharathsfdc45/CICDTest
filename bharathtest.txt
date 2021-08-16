@@ -1,2 +1,0 @@
-hemlo ppl
-Testing CI CD now
